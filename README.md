@@ -17,7 +17,7 @@
                    
 <br />
 
-![Satist's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satist&count_private=true&show_icons=true)
+![Satist's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlamprou &count_private=true&show_icons=true)
 <br />
 
 [linkedin]: https://www.linkedin.com/in/ioannis-lamprou-478b1b223
