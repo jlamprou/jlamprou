@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a research paper for the Russo-Ukrainian War on Twitter
 - 🌱 I’m currently learning Data Science and ML (mostly NLP)
-- 🥅 2023 Goals: Begin my MSc and do more research
+- 🥅 2023 Goals: Start a new job as an ML engineer
 - ⚡ Fun fact: I also know a lot of stuff about Pen-Testing
 
 ### Connect with me:
