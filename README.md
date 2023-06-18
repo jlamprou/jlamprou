@@ -1,7 +1,7 @@
 ### Hi there, I'm John Lamprou 👋
 
 
-- 🔭 I’m currently working on the prediction of Greek Elections 2023 using Twitter data
+- 🔭 I’m currently working on the prediction of Greek Elections 2023 using Twitter data (https://grelections.parasecurity.edu.gr/)
 - 🌱 I’m currently learning Data Science and ML (mostly NLP)
 - 🥅 2023 Goals: Start a new job as an ML engineer
 - ⚡ Fun fact: I also know a lot of stuff about Pen-Testing
