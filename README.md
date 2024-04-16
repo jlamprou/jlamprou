@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently doing my Research MSc on Machine Learning at ECE-TUC.
 - 🌱 I’m currently learning LLMs.
-- 🥅 2023 Goals: Author more research papers
+- 🥅 2024 Goals: Train efficient transformers!
 - ⚡ Fun fact: I also know a lot of stuff about Pen-Testing
 
 ### Connect with me:
