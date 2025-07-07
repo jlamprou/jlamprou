@@ -1,4 +1,4 @@
-### Hi there, I'm John Lamprou 👋
+### Hi there, I'm Ioannis (John) Lamprou 👋
 [![Visit my website](https://img.shields.io/badge/Visit%20my%20website-blue?style=for-the-badge&logo=web)](https://jlamprou.github.io/)
 
 
